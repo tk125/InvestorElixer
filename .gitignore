@@ -1,0 +1,12 @@
+
+investorapp/__init__.py
+investorapp/__pycache__/__init__.cpython-37.pyc
+investorapp/__pycache__/admin.cpython-37.pyc
+investorapp/__pycache__/models.cpython-37.pyc
+investorapp/migrations/0001_initial.py
+investorapp/migrations/__init__.py
+investorapp/migrations/__pycache__/0001_initial.cpython-37.pyc
+investorapp/migrations/__pycache__/__init__.cpython-37.pyc
+investorElixer/__pycache__/settings.cpython-37.pyc
+investorElixer/__pycache__/settings.cpython-37.pyc
+investorElixer/__pycache__/settings.cpython-37.pyc
