@@ -3,7 +3,7 @@ from django.db import models
 class Stock(models.Model):
 
     name = models.CharField(max_length=100)
-    ticker = models.CharField(max_length=10)
+    ticker = models.CharField(max_length=10,unique=True)
     closing_price = models.DecimalField(decimal_places=2,max_digits=10)
 
 class Broker(models.Model):
