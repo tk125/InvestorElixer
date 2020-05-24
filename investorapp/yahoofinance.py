@@ -3,7 +3,7 @@ import requests
 import json
 import argparse
 from collections import OrderedDict
-
+from .models                        import *
 
 def get_headers():
     return {"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
@@ -34,14 +34,13 @@ def parse(ticker):
     try:
         json_loaded_summary = json.loads(summary_json_response.text)
         summary = json_loaded_summary["quoteSummary"]["result"][0]
-        y_Target_Est = summary["financialData"]["targetMeanPrice"]['raw']
-        earnings_list = summary["calendarEvents"]['earnings']
-        eps = summary["defaultKeyStatistics"]["trailingEps"]['raw']
-        datelist = []
+        # earnings_list = summary["calendarEvents"]['earnings']
+        # eps = summary["defaultKeyStatistics"]["trailingEps"]['raw']
+        # datelist = []
 
-        for i in earnings_list['earningsDate']:
-            datelist.append(i['fmt'])
-        earnings_date = ' to '.join(datelist)
+        # for i in earnings_list['earningsDate']:
+        #     datelist.append(i['fmt'])
+        # earnings_date = ' to '.join(datelist)
 
         for table_data in summary_table:
             raw_table_key = table_data.xpath(
@@ -51,15 +50,28 @@ def parse(ticker):
             table_key = ''.join(raw_table_key).strip()
             table_value = ''.join(raw_table_value).strip()
             summary_data.update({table_key: table_value})
-        summary_data.update({'1y Target Est': y_Target_Est, 'EPS (TTM)': eps,
-                             'Earnings Date': earnings_date, 'ticker': ticker,
-                             'url': url})
+        # summary_data.update({'EPS (TTM)': eps,
+        #                      'Earnings Date': earnings_date, 'ticker': ticker,
+        #                      'url': url}) 
+        
+        #DB Update: Real Time Price
+        ticker_without_si= ticker[:-3]                       
+        stock=Stock.objects.filter(ticker=ticker_without_si)
+        stock.update(closing_price=summary_data['Previous Close'])
+
         return summary_data
     except ValueError:
         print("Failed to parse json response")
         return {"error": "Failed to parse json response"}
-    except:
-        return {"error": "Unhandled Error"}
+    except TypeError:
+        print("None TypeError")
+        # Cleanning Data
+        # stock=Stock.objects.get(ticker=ticker[:-3] )
+        # stock.delete()
+    except Exception as e:
+        print("Exception",e)
+
+        return False
 
 
 if __name__ == "__main__":

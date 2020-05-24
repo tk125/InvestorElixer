@@ -1,0 +1,681 @@
+id,name,ticker,closing_price
+1,3Cnergy                       ,502,0.03
+2,8Telecom^                     ,AZG,0.07
+3,A-Smart                       ,BQC,0.3
+4,A-Sonic Aero^                 ,BTJ,0.23
+5,AA                            ,5GZ,0.01
+6,ABF SG BOND ETF               ,A35,1.27
+7,ABR                           ,533,0.58
+8,AEI^                          ,AWG,0.9
+9,AEM                           ,AWX,3.06
+10,AF Global                     ,L38,0.11
+11,AGV                           ,1A4,0.02
+12,AIMS APAC Reit                ,O5RU,1.2
+13,AIMS Property                 ,BVP,1
+14,AMOS                          ,RF7,0.02
+15,AMTD IB OV                    ,HKB,16.98
+16,AP Oil                        ,5AU,0.16
+17,APAC Realty                   ,CLN,0.35
+18,ARA HTrust USD                ,XZL,0.38
+19,ARA LOGOS Log Tr              ,K2LU,0.51
+20,ASL Marine^                   ,A04,0.03
+21,ASTI^                         ,575,0.03
+22,AVJennings A$                 ,A05,0.38
+23,Abundance Intl                ,541,0.01
+24,Accordia Golf Tr              ,ADQU,0.58
+25,Accrelist Ltd                 ,QZG,0.03
+26,Acesian Partners              ,5FW,0.01
+27,Acma^                         ,AYV,0.1
+28,Acromec                       ,43F,0.05
+29,Addvalue Tech                 ,A31,0.03
+30,Advanced^                     ,BLZ,0.07
+31,Advancer Global               ,43Q,0.13
+32,AliPictures HKD               ,S91,1.17
+33,Alita Resources               ,40F,0.08
+34,Alliance HC                   ,MIJ,0.2
+35,Alpha Energy                  ,5TS,0.03
+36,Amara                         ,A34,0.35
+37,Amcorp Global                 ,S9B,0.18
+38,Amplefield Ltd                ,AOF,0.03
+39,Anchor Resources              ,43E,0.01
+40,Anchun Intl^                  ,BTX,0.22
+41,AnnAik                        ,A52,0.07
+42,Aoxin Q & M                   ,1D4,0.12
+43,Arion Ent                     ,YYB,0.01
+44,Ascendas Reit                 ,A17U,2.98
+45,Ascendas-iTrust               ,CY6U,1.35
+46,Ascott Trust                  ,HMN,0.86
+47,Asia Enterprises              ,A55,0.13
+48,Asia Vets                     ,5RE,0.07
+49,AsiaMedic                     ,505,0.01
+50,AsiaPhos                      ,5WV,0.02
+51,Asian Healthcare              ,1J3,0.19
+52,Asian Pay Tv Tr               ,S7OU,0.13
+53,Asiatic                       ,5CR,0.01
+54,Aspen                         ,1F3,0.06
+55,Aspial                        ,A30,0.16
+56,Astaka                        ,42S,0.09
+57,Atlantic Nav                  ,5UL,0.03
+58,AusGroup^                     ,5GJ,0.03
+59,Avarga                        ,U09,0.13
+60,Avi-Tech                      ,BKY,0.38
+61,Axington                      ,42U,0.15
+62,Azeus                         ,BBW,1.02
+63,B&M Hldg                      ,CJN,2.6
+64,BBR                           ,KJ5,0.2
+65,BH Global^                    ,BQN,0.14
+66,BHG Retail Reit               ,BMGU,0.62
+67,BMM^                          ,I9T,0.01
+68,BRC Asia                      ,BEC,1.15
+69,Baker Technology              ,BTP,0.2
+70,Ban Leong                     ,B26,0.19
+71,Banyan Tree                   ,B58,0.24
+72,Beng Kuang^                   ,BEZ,0.06
+73,Best World                    ,CGN,1.36
+74,Biolidics                     ,8YY,0.4
+75,BlackGoldNatural              ,41H,0.01
+76,Boldtek                       ,5VI,0.09
+77,Bonvests                      ,B28,0.84
+78,Boustead                      ,F9D,0.61
+79,Boustead Proj                 ,AVM,0.77
+80,BreadTalk                     ,CTN,0.76
+81,Broadway Ind^                 ,B69,0.1
+82,Brook Crompton                ,AWC,0.86
+83,Bukit Sembawang               ,B61,3.99
+84,Bumitama Agri                 ,P8Z,0.44
+85,Bund Center                   ,BTE,0.5
+86,CDL HTrust                    ,J85,0.92
+87,CDW                           ,BXE,0.13
+88,CEI                           ,AVV,0.86
+89,CFM                           ,5EB,0.01
+90,CH Offshore                   ,C13,0.04
+91,CITYDEV NCCPS                 ,C70,1.05
+92,CNMC Goldmine                 ,5TP,0.21
+93,COSCO SHP SG                  ,F83,0.22
+94,CPH                           ,539,0.01
+95,CSC                           ,C06,0.02
+96,CSE Global                    ,544,0.43
+97,Camsing Hc                    ,BAC,1.07
+98,CapitaCom Trust               ,C61U,1.62
+99,CapitaLand                    ,C31,2.91
+100,CapitaMall Trust              ,C38U,1.89
+101,CapitaR China Tr              ,AU8U,1.29
+102,Captii                        ,AWV,0.36
+103,Casa^                         ,C04,0.04
+104,Centurion                     ,OU8,0.38
+105,Challenger                    ,573,0.44
+106,Chasen^                       ,5NV,0.06
+107,Chemical Ind                  ,C05,0.63
+108,Cheung Woh                    ,C50,0.08
+109,China Aviation                ,G92,1.01
+110,China Env Res                 ,RS1,0.02
+111,China Everbright              ,U9E,0.2
+112,China Intl                    ,BEH,0.19
+113,China Jishan^                 ,J18,0.12
+114,China Mining^                 ,BHD,0.04
+115,China Star Food               ,42W,0.02
+116,China Yuanbang^               ,BCD,0.15
+117,ChinaKangdaFood               ,P74,0.07
+118,ChinaKundaTech                ,GU5,0.01
+119,ChinaSunsine                  ,QES,0.36
+120,Chip Eng Seng                 ,C29,0.52
+121,Choo Chiang                   ,42E,0.2
+122,Chuan Hup                     ,C33,0.19
+123,CityDev                       ,C09,7.6
+124,Civmec                        ,P9D,0.36
+125,Clearbridge                   ,1H3,0.19
+126,Colex                         ,567,0.22
+127,Combine Will                  ,N0Z,0.9
+128,ComfortDelGro                 ,C52,1.59
+129,Cordlife                      ,P8A,0.35
+130,Cortina                       ,C41,1.3
+131,CosmoSteel^                   ,B9S,0.07
+132,Courage Inv                   ,CIN,0.01
+133,Creative                      ,C76,2.2
+134,CromwellReit EUR              ,CNNU,0.4
+135,CromwellReit SGD              ,CSFU,0.62
+136,DBS                           ,D05,19.45
+137,DBS Bk 4.7% NCPS#             ,MU7,101.8
+138,DLF                           ,KUX,0.18
+139,DairyFarm USD                 ,D01,4.71
+140,Darco Water Tech              ,BLR,0.17
+141,Dasin Retail Tr               ,CEDU,0.83
+142,Datapulse Tech                ,BKW,0.18
+143,Debao Property^               ,BTF,0.11
+144,Del Monte Pac                 ,D03,0.11
+145,Delfi                         ,P34,0.83
+146,Design Studio^                ,D11,0.08
+147,Don Agro                      ,GRQ,0.36
+148,Dukang^                       ,BKV,0.06
+149,Dutech                        ,CZ4,0.24
+150,Duty Free Intl                ,5SO,0.1
+151,Dyna-Mac                      ,NO4,0.11
+152,Dynamic Colours^              ,D6U,0.2
+153,EC World Reit                 ,BWCU,0.68
+154,ES                            ,5RC,0.04
+155,ESR-REIT                      ,J91U,0.38
+156,ETC Singapore                 ,1C0,0.03
+157,Eagle HTrust USD              ,LIW,0.14
+158,EcoWise                       ,5CT,0.03
+159,Eindec                        ,42Z,0.02
+160,Elec & Eltek USD              ,E16,2.16
+161,EliteComREIT GBP              ,MXNU,0.66
+162,Ellipsiz                      ,BIX,0.35
+163,EnGro                         ,S44,0.8
+164,Eneco Energy^                 ,R14,0.03
+165,Envictus^                     ,BQD,0.11
+166,Enviro-Hub^                   ,L23,0.01
+167,EuroSports Gbl                ,5G1,0.2
+168,Excelpoint                    ,BDF,0.34
+169,F & N                         ,F99,1.49
+170,FJ Benjamin^                  ,F10,0.02
+171,FSL Trust^                    ,D8DU,0.06
+172,Fabchem China^                ,BFT,0.16
+173,Falcon Energy^                ,5FL,0.03
+174,Far East                      ,5TJ,0.12
+175,Far East HTrust               ,Q5T,0.48
+176,Far East Orchard              ,O10,1.01
+177,Federal Int                   ,BDU,0.18
+178,Figtree                       ,5F4,0.09
+179,First Reit                    ,AW9U,0.82
+180,First Resources               ,EB5,1.3
+181,First Sponsor                 ,ADN,1.08
+182,Food Empire                   ,F03,0.5
+183,Forise Intl^                  ,I5H,0.01
+184,FortressMinerals              ,OAJ,0.2
+185,Fragrance                     ,F31,0.12
+186,Frasers Cpt Tr                ,J69U,2.24
+187,Frasers HTrust                ,ACV,0.45
+188,Frasers L&C Tr                ,BUOU,1.11
+189,Frasers Property              ,TQ5,1.18
+190,Frencken                      ,E28,0.8
+191,Fu Yu                         ,F13,0.22
+192,Fuji Offset                   ,508,0.42
+193,Fuxing China                  ,AWK,0.45
+194,G Invacom^                    ,QS9,0.09
+195,G K Goh                       ,G41,0.74
+196,GCCP                          ,41T,0.01
+197,GDS Global                    ,5VP,0.1
+198,GKE                           ,595,0.06
+199,GL                            ,B16,0.56
+200,GLD US$                       ,O87,163.13
+201,GP Industries                 ,G20,0.55
+202,GRP^                          ,BLU,0.17
+203,GS Hldg                       ,43A,0.57
+204,GSH                           ,BDX,0.22
+205,GSS Energy                    ,41F,0.07
+206,GYP Properties^               ,AWS,0.1
+207,Gallant Venture               ,5IG,0.11
+208,Genting Sing                  ,G13,0.77
+209,Geo Energy Res                ,RE4,0.14
+210,Global Dragon                 ,586,0.06
+211,Global Inv                    ,B73,0.14
+212,Global Palm Res               ,BLW,0.15
+213,Global Testing                ,AYN,0.3
+214,Golden Agri-Res               ,E5H,0.14
+215,Golden Energy                 ,AUE,0.18
+216,Goodland                      ,5PC,0.16
+217,Grand Banks                   ,G50,0.17
+218,Grand Venture                 ,JLB,0.22
+219,Great Eastern                 ,G07,19.18
+220,Green Build^                  ,Y06,0.04
+221,Guoan Intl                    ,G11,0.01
+222,GuocoLand                     ,F17,1.42
+223,HC Surgical                   ,1B1,0.32
+224,HG Metal                      ,BTG,0.18
+225,HL Global Ent                 ,AVX,0.24
+226,HNP ADR US$                   ,K3FD,12.56
+227,HPH Trust SGD                 ,P7VU,0.17
+228,HPH Trust USD                 ,NS8U,0.12
+229,HPL                           ,H15,2.93
+230,HRnetGroup                    ,CHZ,0.51
+231,Hafary                        ,5VS,0.14
+232,Hai Leck                      ,BLH,0.45
+233,Halcyon Agri                  ,5VJ,0.35
+234,Hanwell                       ,DM0,0.19
+235,Hatten Land                   ,PH0,0.07
+236,Haw Par                       ,H02,10.18
+237,HealthBank                    ,40B,0.14
+238,Healthway Med                 ,5NG,0.03
+239,Heatec Jietong                ,5OR,0.03
+240,Heeton                        ,5DP,0.23
+241,Hengyang Petro                ,5PD,0.25
+242,Hi-P                          ,H17,1.11
+243,Hiap Hoe                      ,5JK,0.66
+244,Hiap Seng^                    ,510,0.02
+245,Hiap Tong                     ,5PO,0.06
+246,Ho Bee Land                   ,H13,2.04
+247,Hock Lian Seng                ,J2T,0.28
+248,Hong Fok                      ,H30,0.71
+249,Hong Lai Huat                 ,CTO,0.13
+250,Hong Leong Asia               ,H22,0.52
+251,Hong Leong Fin                ,S41,2.31
+252,HongkongLand USD              ,H78,3.78
+253,Hor Kew^                      ,BBP,0.15
+254,Hosen                         ,5EV,0.02
+255,Hotel Grand                   ,H18,0.94
+256,Hotel Royal                   ,H12,2.99
+257,Hotung Inv                    ,BLS,1.52
+258,Huationg Global               ,41B,0.06
+259,Hwa Hong                      ,H19,0.29
+260,Hyphens Pharma                ,1J5,0.24
+261,ICP Ltd                       ,5I4,0.01
+262,IEV                           ,5TN,0.03
+263,IFAST                         ,AIY,1.03
+264,IFS Capital                   ,I49,0.19
+265,IHH                           ,Q0F,1.83
+266,IP Softcom                    ,571,0.01
+267,IPC Corp                      ,AZA,0.19
+268,IPS Securex                   ,42N,0.08
+269,IREIT Global                  ,UD1U,0.68
+270,IS ASIA BND S$D               ,QL2,15.2
+271,IS ASIA BND US$               ,N6M,10.74
+272,IS ASIA HYG S$D               ,QL3,13.87
+273,IS ASIA HYG US$               ,O9P,9.79
+274,IS MS INDIA S$D               ,QK9,9.42
+275,IS MS INDIA US$               ,I98,6.66
+276,ISDN                          ,I07,0.2
+277,ISEC                          ,40T,0.3
+278,ISOTeam                       ,5WF,0.12
+279,IX Biopharma                  ,42C,0.23
+280,Imperium Crown                ,5HT,0.01
+281,Indofood Agri                 ,5JS,0.3
+282,Informatics^                  ,BOU,0.02
+283,InnoTek                       ,M14,0.35
+284,Interra Resource^             ,5GI,0.06
+285,Intl Cement^                  ,KUO,0.02
+286,Intraco                       ,I06,0.2
+287,Isetan                        ,I15,2.96
+288,JB Foods                      ,BEW,0.53
+289,JEP                           ,1J4,0.19
+290,JMH USD                       ,J36,42.67
+291,JSH USD                       ,J37,20.84
+292,Jackspeed^                    ,J17,0.13
+293,Jadason^                      ,J03,0.02
+294,Japan Foods                   ,5OI,0.31
+295,Japfa                         ,UD2,0.62
+296,Jardine C&C                   ,C07,20.55
+297,Jason Marine                  ,5PF,0.12
+298,Jawala                        ,1J7,0.18
+299,Jiutian Chemical              ,C8R,0.01
+300,Jubilee                       ,NHD,0.04
+301,Jumbo                         ,42R,0.25
+302,KOP                           ,5I1,0.04
+303,KS Energy^                    ,578,0.01
+304,KSH                           ,ER0,0.29
+305,KTL Global^                   ,EB7,0.02
+306,KTMG                          ,XCF,0.15
+307,Karin Tech                    ,K29,0.32
+308,Katrina                       ,1A0,0.11
+309,Kencana Agri^                 ,BNE,0.09
+310,Keong Hong                    ,5TT,0.34
+311,Kep Infra Tr                  ,A7RU,0.51
+312,KepPacOakReitUSD              ,CMOU,0.65
+313,Keppel Corp                   ,BN4,6.02
+314,Keppel DC Reit                ,AJBU,2.39
+315,Keppel Reit                   ,K71U,1.05
+316,Khong Guan                    ,K03,1.6
+317,KimHeng Offshore              ,5G2,0.03
+318,Kimly                         ,1D0,0.21
+319,King Wan                      ,554,0.08
+320,KingsmenCreative              ,5MZ,0.21
+321,Kitchen Culture               ,5TI,0.19
+322,Koda                          ,BJZ,0.35
+323,Koh Bros                      ,K75,0.16
+324,Koh Eco                       ,5HV,0.04
+325,Koon                          ,5DL,0.04
+326,Kori                          ,5VC,0.22
+327,Koufu                         ,VL6,0.64
+328,Koyo Intl                     ,5OC,0.09
+329,LCT                           ,BJL,0.4
+330,LHN                           ,41O,0.1
+331,LHT                           ,BEI,0.62
+332,LION-PHILLIP S-REIT           ,CLR,0.98
+333,LY Corp                       ,1H8,0.17
+334,Lafe^                         ,AYB,0.65
+335,Lasseters Intl                ,5EL,0.01
+336,Leader Env^                   ,LS9,0.06
+337,Lendlease Reit                ,JYEU,0.58
+338,Ley Choon                     ,Q0X,0.01
+339,Lian Beng                     ,L03,0.38
+340,Libra                         ,5TR,0.04
+341,Lion Asiapac                  ,BAZ,0.32
+342,Lippo Malls Tr                ,D5IU,0.13
+343,Low Keng Huat                 ,F1E,0.4
+344,Lum Chang                     ,L19,0.32
+345,Lung Kee Bermuda              ,L09,0.45
+346,Luxking                       ,BKK,0.37
+347,Luzhou Bio-Chem^              ,L46,0.01
+348,Lyxor Asia US$                ,P60,5.58
+349,Lyxor ChinaH US$              ,P58,14.95
+350,Lyxor EM Mkt US$              ,H1N,10.4
+351,Lyxor MSIndia US$             ,G1N,14.3
+352,MFG Integration               ,M11,0.08
+353,MM2 Asia                      ,1B0,0.18
+354,MS Hldgs                      ,40U,0.07
+355,MSC                           ,NPW,0.22
+356,MSM Intl                      ,5QR,0.03
+357,MTQ                           ,M05,0.21
+358,MYP                           ,F86,0.06
+359,Man Oriental USD              ,M04,1.42
+360,Manhattan Res^                ,L02,0.02
+361,ManulifeReit USD              ,BTOU,0.72
+362,Mapletree Com Tr              ,N2IU,1.94
+363,Mapletree Ind Tr              ,ME8U,2.56
+364,Mapletree Log Tr              ,M44U,1.79
+365,Mapletree NAC Tr              ,RW0U,0.83
+366,MarcoPolo Marine              ,5LY,0.01
+367,Mary Chia                     ,5OX,0.1
+368,Matex Intl                    ,M15,0.02
+369,Maxi-Cash Fin                 ,5UF,0.13
+370,MeGroup                       ,SJY,0.13
+371,Medinex                       ,OTX,0.2
+372,Medtecs Intl                  ,546,0.18
+373,MegaChem                      ,5DS,0.32
+374,Meghmani SDS                  ,M30,0.46
+375,Memiontec                     ,SYM,0.22
+376,Memories                      ,1H4,0.04
+377,Mencast^                      ,5NF,0.03
+378,Mercurius                     ,5RF,0.04
+379,Mermaid Maritime              ,DU4,0.08
+380,Metal Component               ,5DX,0.02
+381,Metech Intl                   ,V3M,0.16
+382,Metro                         ,M01,0.7
+383,Mewah Intl                    ,MV4,0.2
+384,Micro-Mechanics               ,5DD,1.67
+385,MindChamps                    ,CNE,0.3
+386,Mirach Energy^                ,AWO,0.14
+387,Miyoshi                       ,M03,0.03
+388,MoneyMax Fin                  ,5WJ,0.15
+389,Moya Asia                     ,5WE,0.07
+390,Multi-Chem                    ,AWZ,0.86
+391,Mun Siong Engg^               ,MF6,0.04
+392,NSL                           ,N02,0.73
+393,Nam Lee Metal                 ,G0I,0.32
+394,Natural Cool                  ,5IF,0.03
+395,NauticAWT                     ,42D,0.03
+396,Neo                           ,5UJ,0.36
+397,NeraTel                       ,N01,0.2
+398,Net Pacific Fin               ,5QY,0.02
+399,NetLink NBN Tr                ,CJLU,0.98
+400,New Silkroutes                ,BMT,0.2
+401,New Toyo                      ,N08,0.13
+402,New Wave                      ,5FX,0.01
+403,Nikko AM STI ETF              ,G3B,2.64
+404,NikkoAM SGD IGBond ETF        ,MBH,1.04
+405,NikkoAM-STC A_REIT US$        ,COI,0.76
+406,NikkoAM-STC Asia REIT         ,CFA,1.07
+407,Nippecraft                    ,N32,0.02
+408,No Signboard                  ,1G6,0.02
+409,Noel Gifts Intl               ,543,0.17
+410,Nordic                        ,MR7,0.22
+411,Ntegrator Intl                ,5HC,0.01
+412,NutryFarm^                    ,AZT,0.04
+413,OCBC Bank                     ,O39,8.61
+414,OEL                           ,584,0.02
+415,OKH Global^                   ,S3N,0.02
+416,OKP                           ,5CF,0.18
+417,OUE                           ,LJ3,1.15
+418,OUE Com Reit                  ,TS0U,0.38
+419,OUE Lippo HC                  ,5WA,0.04
+420,Ocean Sky Intl                ,1B6,0.04
+421,Olam Intl                     ,O32,1.49
+422,Old Chang Kee                 ,5ML,0.73
+423,Olive Tree                    ,1H2,0.11
+424,OneApex                       ,5SY,0.19
+425,Ossia Intl^                   ,O08,0.06
+426,Ouhua Energy^                 ,AJ2,0.02
+427,Overseas Edu                  ,RQ1,0.29
+428,Oxley                         ,5UX,0.24
+429,P5 Capital                    ,5AI,0.03
+430,PEC                           ,IX2,0.44
+431,PHIL AP DIV REIT S$D          ,BYJ,1.14
+432,PHIL AP DIV REIT US$          ,BYI,0.8
+433,PHIL SING INC                 ,OVQ,0.92
+434,PNE Industries                ,BDA,0.82
+435,PRINCIPAL ASEAN40 S$D         ,QS0,10.5
+436,PRINCIPAL ASEAN40 US$         ,M62,7.44
+437,PRINCIPAL S&P AP DIV S$D      ,QR9,0.97
+438,PRINCIPAL S&P AP DIV US$      ,P5P,0.69
+439,PSL^                          ,BLL,0.04
+440,PTR ADR US$                   ,K3OD,35.42
+441,Pacific Century               ,P15,0.3
+442,Pacific Star Dev              ,1C5,0.04
+443,Pan Asian                     ,5EW,0.02
+444,Pan Hong                      ,P36,0.07
+445,Pan Ocean                     ,AZY,3.86
+446,PanUnited                     ,P52,0.3
+447,Parkson Retail^               ,O9E,0.01
+448,ParkwayLife Reit              ,C2PU,3.23
+449,Pavillon^                     ,596,0.02
+450,Penguin Intl                  ,BTM,0.5
+451,Perennial Hldgs               ,40S,0.64
+452,Pharmesis Intl                ,BFK,0.21
+453,Plato Capital                 ,5PI,0.05
+454,Pollux Prop                   ,5AE,0.03
+455,Powermatic Data               ,BCY,2.49
+456,Prime US ReitUSD              ,OXMU,0.7
+457,Procurri                      ,BVQ,0.28
+458,Progen                        ,583,0.01
+459,PropNex                       ,OYY,0.51
+460,Prudential USD                ,K6S,19.3
+461,Q&M Dental                    ,QC7,0.46
+462,QAF                           ,Q01,0.78
+463,Qian Hu^                      ,BCV,0.12
+464,RE&S Hldg                     ,1G1,0.06
+465,RH PetroGas                   ,T13,0.02
+466,RHT HealthTrust               ,RF1U,0.02
+467,Raffles Edu                   ,NR7,0.08
+468,Raffles Infrastructure^       ,LUY,0.29
+469,Raffles Medical               ,BSL,0.91
+470,Reclaims Global               ,NEX,0.32
+471,Regal Intl^                   ,UV1,0.01
+472,Resources Gbl                 ,QSD,0.21
+473,Revez                         ,RCU,0.34
+474,Rex Intl                      ,5WH,0.14
+475,Riverstone                    ,AP4,1.94
+476,Roxy-Pacific                  ,E8Z,0.34
+477,SATS                          ,S58,2.87
+478,SBI Offshore                  ,5PL,0.02
+479,SBS Transit                   ,S61,2.79
+480,SEVAK                         ,BAI,1.3
+481,SGX                           ,S68,9.88
+482,SHI ADR US$                   ,K3DD,25.74
+483,SHS                           ,566,0.16
+484,SIA                           ,C6L,3.64
+485,SIA Engineering               ,S59,1.68
+486,SIA R                         ,LRDR,0.55
+487,SIA R1                        ,HTFR,0.52
+488,SIIC Environment              ,BHK,0.24
+489,SK Jewellery                  ,42G,0.08
+490,SLB Dev                       ,1J0,0.12
+491,SP Corp                       ,AWE,0.36
+492,SPDR DJIA US$                 ,D07,244.5
+493,SPDR S&P500 US$               ,S27,294.8
+494,SPH                           ,T39,1.56
+495,SPHREIT                       ,SK6U,0.8
+496,ST Engineering                ,S63,3.17
+497,ST Group Food                 ,DRX,0.19
+498,STI ETF                       ,ES3,2.59
+499,SUTL Enterprise               ,BHU,0.38
+500,Sabana Reit                   ,M1GU,0.33
+501,Sakae^                        ,5DO,0.04
+502,Samko Timber                  ,E6R,0.02
+503,SamuderaShipping              ,S56,0.13
+504,Samurai                       ,1C3,0.65
+505,Santak                        ,580,0.08
+506,Sapphire                      ,BRD,0.05
+507,Sarine Tech                   ,U77,0.22
+508,Sasseur Reit                  ,CRPU,0.75
+509,Second Chance                 ,528,0.17
+510,Secura                        ,43B,0.07
+511,Sembcorp Ind                  ,U96,1.57
+512,Sembcorp Marine               ,S51,0.72
+513,Sen Yue                       ,5BS,0.02
+514,Serial System                 ,S69,0.06
+515,Seroja Inv^                   ,IW5,0.08
+516,Shangri-La HKD                ,S07,7
+517,Sheng Siong                   ,OV8,1.55
+518,Shinvest                      ,BJW,2.7
+519,Shopper360                    ,1F0,0.1
+520,Silkroad Nickel               ,STP,0.24
+521,Silverlake Axis               ,5CP,0.22
+522,Sim Leisure                   ,URR,0.2
+523,Sin Ghee Huat                 ,B7K,0.16
+524,Sin Heng Mach                 ,BKA,0.3
+525,Sinarmas Land                 ,A26,0.19
+526,Sincap                        ,5UN,0.01
+527,Sing Inv & Fin                ,S35,1.21
+528,SingHaiyi                     ,5H0,0.07
+529,SingHoldings                  ,5IC,0.36
+530,SingIndexFund                 ,S45U,1.81
+531,SingMedical                   ,5OT,0.24
+532,SingMyanmar^                  ,Y45,0.04
+533,SingPost                      ,S08,0.76
+534,SingReinsurance               ,S49,0.28
+535,SingShipping                  ,S19,0.27
+536,Singapore O&G                 ,1D8,0.2
+537,Singapore-eDev                ,40V,0.06
+538,SingaporeKitchen              ,5WG,0.09
+539,Singtel                       ,Z74,2.68
+540,Singtel 10                    ,Z77,2.69
+541,Sinjia Land                   ,5HH,0.01
+542,Sino Grandness                ,T4B,0.02
+543,Sinostar Pec                  ,C9Q,0.14
+544,Sitra                         ,5LE,0.01
+545,Soilbuild Const               ,S7P,0.04
+546,SoilbuildBizReit              ,SV3U,0.37
+547,Soon Lian                     ,5MD,0.06
+548,Soup Restaurant               ,5KI,0.11
+549,Southern Pkg                  ,BQP,0.22
+550,Spackman                      ,40E,0.01
+551,Spindex Ind                   ,564,0.85
+552,Spura Finance                 ,S23,0.73
+553,Sri Trang Agro                ,NC2,0.85
+554,Stamford Land                 ,H07,0.34
+555,Stamford Tyres                ,S29,0.19
+556,StarHub                       ,CC3,1.4
+557,Starburst                     ,40D,0.35
+558,StarhillGbl Reit              ,P40U,0.46
+559,Starland                      ,5UA,0.16
+560,Straco                        ,S85,0.5
+561,Straits Trading               ,S20,1.58
+562,SunMoonFood^                  ,AAJ,0.04
+563,Sunningdale Tech              ,BHQ,0.96
+564,Sunpower                      ,5GD,0.44
+565,Sunright                      ,S71,0.35
+566,Sunrise Shares                ,581,0.02
+567,Suntar Eco-City^              ,BKZ,0.45
+568,Suntec Reit                   ,T82U,1.42
+569,Synagie                       ,V2Y,0.11
+570,Sysma                         ,5UO,0.14
+571,TA                            ,PA3,0.14
+572,TCIL HK$                      ,T15,1.88
+573,TEE Intl                      ,M1Z,0.02
+574,TIH                           ,T55,0.23
+575,TLV                           ,42L,0.04
+576,TSH                           ,KUH,0.1
+577,TTJ                           ,K1Q,0.16
+578,Tai Sin Electric              ,500,0.28
+579,TalkMed                       ,5G3,0.4
+580,Tat Seng Pkg                  ,T12,0.41
+581,Teckwah                       ,561,0.44
+582,Teho Intl                     ,5OQ,0.01
+583,TeleChoice Intl               ,T41,0.2
+584,ThaiBev                       ,Y92,0.66
+585,Thakral                       ,AWI,0.44
+586,The Place Hldg                ,E27,0.02
+587,TheHourGlass                  ,AGS,0.61
+588,Thomson Medical               ,A50,0.06
+589,Tianjin ZX USD                ,T14,0.74
+590,Tiong Seng                    ,BFI,0.15
+591,Tiong Woon                    ,BQM,0.38
+592,Top Global                    ,BHO,0.19
+593,Top Glove                     ,BVA,3.9
+594,Transit Concrete^             ,570,0.08
+595,Travelite^                    ,BCZ,0.11
+596,Trek 2000 Intl^               ,5AB,0.05
+597,Trendlines                    ,42T,0.11
+598,TrickleStar                   ,CYW,0.3
+599,Tritech                       ,5G9,0.02
+600,Tuan Sing                     ,T24,0.23
+601,Tung Lok Rest                 ,540,0.14
+602,Tye Soon^                     ,BFU,0.07
+603,UETF SSE50China               ,JK8,2.29
+604,UG Healthcare                 ,41A,0.34
+605,UIC                           ,U06,2.11
+606,UMS                           ,558,0.9
+607,UOA                           ,EH5,0.61
+608,UOB                           ,U11,19.68
+609,UOB Kay Hian                  ,U10,1.15
+610,UOI                           ,U13,6.49
+611,UOL                           ,U14,6.68
+612,USP Group^                    ,BRS,0.08
+613,UnUsUaL                       ,1D1,0.14
+614,Uni-Asia Grp                  ,CHJ,0.47
+615,Union Gas                     ,1F2,0.26
+616,Union Steel                   ,BLA,0.33
+617,United Food^                  ,AZR,0.04
+618,United Global                 ,43P,0.45
+619,UtdHampshReitUSD              ,ODBU,0.59
+620,VICOM                         ,V01,8.15
+621,Vallianz                      ,WPC,0.05
+622,ValueMax                      ,T6I,0.29
+623,Valuetronics                  ,BN2,0.66
+624,Venture                       ,V03,15.75
+625,Versalink                     ,40N,0.15
+626,Vibrant Group                 ,BIP,0.09
+627,VibroPower^                   ,BJD,0.11
+628,Vicplas Intl                  ,569,0.1
+629,Vividthree                    ,OMK,0.05
+630,Wee Hur                       ,E3B,0.18
+631,Willas-Array                  ,BDR,0.28
+632,Wilmar Intl                   ,F34,3.81
+633,Wilton Resources              ,5F7,0.03
+634,Winas                         ,5CN,0.01
+635,Wing Tai                      ,W05,1.75
+636,Wong Fong Ind                 ,1A1,0.14
+637,World Precision               ,B49,0.17
+638,XMH^                          ,BQF,0.07
+639,XT ASX200 US$                 ,LF1,29.98
+640,XT CSI300 US$                 ,KT4,10.11
+641,XT China50 US$                ,HD8,36.35
+642,XT E50 US$                    ,IH0,47.76
+643,XT MS SING US$                ,O9A,1.19
+644,XT MSAsExJp US$               ,IH1,41.7
+645,XT MSBrazil US$               ,J0O,2.89
+646,XT MSCHINA S$                 ,TID,26.14
+647,XT MSCHINA US$                ,LG9,18.49
+648,XT MSEurope US$               ,IH3,57.95
+649,XT MSINDIA US$                ,LG8,9.08
+650,XT MSINDO US$                 ,KJ7,10.39
+651,XT MSJAP US$                  ,LF2,56.73
+652,XT MSKorea US$                ,IH2,60.92
+653,XT MSMSIA US$                 ,LG6,10.21
+654,XT MSPAKIS US$                ,O9D,0.94
+655,XT MSPHILS US$                ,N2E,1.36
+656,XT MSPacXJp US$               ,J0Q,5.21
+657,XT MSRussia US$               ,J0R,2.49
+658,XT MSTHAI US$                 ,LG7,21.06
+659,XT MSTaiwan US$               ,HD7,31.58
+660,XT MSUSA US$                  ,KF8,82.58
+661,XT MSWorld US$                ,J0P,6.09
+662,XT Nifty US$                  ,HE0,118.07
+663,XT S&P 500 -1x US$            ,HD6,12.69
+664,XT S&P500 US$                 ,K6K,55.24
+665,XT STGLDv US$                 ,KT3,23.47
+666,XT SingGovBond SG$            ,KV4,160.86
+667,XT Vietnam US$                ,HD9,27.74
+668,Y Ventures                    ,1F1,0.08
+669,YHI Intl                      ,BPF,0.33
+670,YZJ Shipbldg SGD              ,BS6,0.95
+671,Yanlord Land                  ,Z25,1.05
+672,Yeo Hiap Seng                 ,Y03,0.84
+673,Yinda Infocomm                ,42F,0.01
+674,Ying Li Intl                  ,5DM,0.08
+675,Yoma Strategic                ,Z59,0.25
+676,Yongmao                       ,BKX,0.67
+677,Yongnam                       ,AXB,0.08
+678,ZICO Hldgs                    ,40W,0.14
+679,Zheneng Jinjiang              ,BWM,0.43
+680,Zhongmin Baihui               ,5SR,0.64

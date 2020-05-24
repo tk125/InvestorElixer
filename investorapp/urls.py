@@ -5,7 +5,8 @@ from django.conf.urls.static    import static
 
 urlpatterns = [
     path('', views.index, name='index'),
-    path('blah', views.email_sent, name='fuck'),
+    path('email_sent', views.email_sent, name='email_sent'),
+    path('refreshAllStockPrice', views.refreshAllStockPrice, name='refreshAllStockPrice'),
 ]
 
 if settings.DEBUG:
