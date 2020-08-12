@@ -7,6 +7,7 @@ urlpatterns = [
     path('', views.index, name='index'),
     path('email_sent', views.email_sent, name='email_sent'),
     path('refreshAllStockPrice', views.refreshAllStockPrice, name='refreshAllStockPrice'),
+    path('fiveYearSummary', views.fiveYearSummary, name='fiveYearSummary'),
 ]
 
 if settings.DEBUG:
